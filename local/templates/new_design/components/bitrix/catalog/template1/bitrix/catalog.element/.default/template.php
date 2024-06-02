@@ -147,7 +147,7 @@ if ('Y' == $arParams['DISPLAY_NAME'])
                 </div>
             <? } ?>
         </div>
-        <? include 'top.php'; ?>
+        <? include 'top2.php'; ?>
         <div class="clear"></div>
         <div class="bx_md">
             <div class="item_info_section">
